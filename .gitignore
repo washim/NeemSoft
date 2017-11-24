@@ -1,1 +1,3 @@
-node_module/*
+node_modules
+resource
+NeemSoft-win32-x64
