@@ -1,0 +1,22 @@
+{
+  "name": "stock_management_system",
+  "productName": "Stock Management System",
+  "version": "0.1.0",
+  "description": "All rigths reserved by Washim Ahmed(info@washimahmed.com). This is reserved for personal use only. If need for business purpose use, you may need to contact above mention email for more details.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Washim Ahmed",
+  "license": "CC0-1.0",
+  "devDependencies": {},
+  "dependencies": {}
+}

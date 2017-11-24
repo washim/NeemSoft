@@ -1,0 +1,1 @@
+electron-packager ./source --platform=win32 --arch=x64 --icon=./source/icons/64x64.ico --electronVersion=1.7.9 --app-version=1.0.0.0 --version-string.ProductVersion=1.0.0.0 --version-string.FileVersion=1.0.0.0 --overwrite NeemSoft
