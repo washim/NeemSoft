@@ -9,5 +9,13 @@
     </head>
     <body>
         <script src="https://washimahmed.com/static/neemsoft/webixcustom.js" type="text/javascript"></script>
+        <script>
+            if (typeof HTTP_CONNECTION == "undefined") {
+                webix.alert({
+                    text:"We cant connect to the server. Check your internet connection.",
+                    width:300
+                });
+            }
+        </script>
     </body>
 </html>
